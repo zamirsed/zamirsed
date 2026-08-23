@@ -192,10 +192,10 @@ feel free to connect or collaborate.
 
 ### 🌐 Connect With Me
 
-* 💼 LinkedIn: `YOUR_LINKEDIN_URL`
-* 🌐 Portfolio: `YOUR_PORTFOLIO_URL`
-* 📧 Email: `YOUR_EMAIL`
-* 🐙 GitHub: `https://github.com/YOUR_USERNAME`
+* 💼 LinkedIn: ``
+* 🌐 Portfolio: ``
+* 📧 Email: `m.zamirsiddiqui@gmail.com`
+* 🐙 GitHub: `(https://github.com/zamirsed)`
 
 ---
 
