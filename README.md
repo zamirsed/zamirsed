@@ -192,8 +192,7 @@ feel free to connect or collaborate.
 
 ### 🌐 Connect With Me
 
-* 💼 LinkedIn: ``
-* 🌐 Portfolio: ``
+* 💼 LinkedIn: `zamir siddiqui`
 * 📧 Email: `m.zamirsiddiqui@gmail.com`
 * 🐙 GitHub: `(https://github.com/zamirsed)`
 
